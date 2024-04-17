@@ -8,6 +8,3 @@
 - ☁️ Experienced with cloud technologies like AWS, Azure, and Google Cloud.
 - 🌐 Interested in web development, APIs, and microservices.
 
-AstralSkies/AstralSkies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
